@@ -1,1 +1,2 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a47a2d66-f8aa-4b5d-bdbe-c79edc8ac306" />
+This is a web-based CPU Scheduling Visualization tool built using HTML, CSS (Tailwind), and JavaScript. It allows users to simulate various scheduling algorithms like FCFS, SJF, Priority, and Round Robin with interactive Gantt charts and performance metrics. Designed for students and educators, it also includes a feature to generate random processes for quick testing.
